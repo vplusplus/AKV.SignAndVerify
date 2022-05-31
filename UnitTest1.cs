@@ -12,8 +12,8 @@ namespace AKV.SignAndVerify
     [TestClass]
     public class UnitTest1
     {
-        const string TenantId = "036d0851-2dfb-47ba-af55-cea5078111dd";
-        const string ClientId = "e6c47b5c-91a5-44e0-9146-f0f34cfe543f";
+        const string TenantId = "AAD Tenant Id";
+        const string ClientId = "AAD Clinet Id";
         const string ClientSecret = "Fill-Me-In";
         const string VaultUrl = "https://hello-akv-2205.vault.azure.net/";
         const string CertThumprint = "197e7cb9b16d49fe79d7bb639e057877bd76b0e9";
